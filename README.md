@@ -1,4 +1,7 @@
-# calculadora.js
+
+ Luis henrique
+ 
+ calculadora.js
 
 function somaMultiplica(a, b, multiplicador) {
   const soma = a + b;
